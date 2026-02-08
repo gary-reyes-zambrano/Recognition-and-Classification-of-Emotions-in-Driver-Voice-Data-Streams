@@ -1,0 +1,33 @@
+filename,duration,sample_rate,channels,samples,rms,max_amplitude,path
+enojo4.wav,37.08,44100,1,1635328,0.01302345097064972,0.184906005859375,/content/audio_dataset/original/enojo4.wav
+pelea1.wav,17.3,44100,1,762880,0.181345596909523,0.85125732421875,/content/audio_dataset/original/pelea1.wav
+3.wav,4.93,8000,1,39448,0.030502421781420708,0.265625,/content/audio_dataset/original/3.wav
+Enojada.wav,19.39,44100,1,855040,0.12367264926433563,1.0,/content/audio_dataset/original/Enojada.wav
+sorprendido1.wav,29.81,44100,1,1314816,0.02794809825718403,0.162841796875,/content/audio_dataset/original/sorprendido1.wav
+pelea2.wav,19.16,44100,1,844800,0.13782541453838348,0.97503662109375,/content/audio_dataset/original/pelea2.wav
+Feliz02122025.mp3,28.55,44100,1,1259136,0.03438747674226761,0.33853352069854736,/content/audio_dataset/original/Feliz02122025.mp3
+Enojo.mp3,3.84,24000,1,92160,0.08133785426616669,0.5648574829101562,/content/audio_dataset/original/Enojo.mp3
+enojo1.wav,12.68,44100,1,559104,0.12088833004236221,0.80859375,/content/audio_dataset/original/enojo1.wav
+Enojo.wav,116.24,44100,1,5126144,0.14386214315891266,0.996826171875,/content/audio_dataset/original/Enojo.wav
+6.wav,5.17,8000,1,41376,0.03864714130759239,0.46875,/content/audio_dataset/original/6.wav
+molesta.mp3,58.38,44100,1,2574720,0.17075295746326447,0.7611125111579895,/content/audio_dataset/original/molesta.mp3
+1.wav,2.53,8000,1,20256,0.044326893985271454,0.2578125,/content/audio_dataset/original/1.wav
+2.wav,4.45,8000,1,35584,0.04951614513993263,0.3203125,/content/audio_dataset/original/2.wav
+Traficop.mp3,5.84,16000,1,93370,0.06339139491319656,0.33397531509399414,/content/audio_dataset/original/Traficop.mp3
+4.wav,7.67,8000,1,61400,0.0317581370472908,0.34375,/content/audio_dataset/original/4.wav
+5.wav,4.95,8000,1,39608,0.03479410335421562,0.34375,/content/audio_dataset/original/5.wav
+molesta2.mp3,71.34,44100,1,3146112,0.17287315428256989,0.9734261631965637,/content/audio_dataset/original/molesta2.mp3
+Coraje.mp3,4.55,44100,1,200448,0.08650501072406769,0.6949827075004578,/content/audio_dataset/original/Coraje.mp3
+apurado1.wav,34.71,44100,1,1530880,0.07939711958169937,0.609954833984375,/content/audio_dataset/original/apurado1.wav
+enojo2.wav,159.36,44100,1,7027774,0.1108984425663948,0.999969482421875,/content/audio_dataset/original/enojo2.wav
+Enojado.wav,58.4,44100,1,2575360,0.14609019458293915,0.993438720703125,/content/audio_dataset/original/Enojado.wav
+susto1.wav,18.44,44100,1,813056,0.14790968596935272,0.60772705078125,/content/audio_dataset/original/susto1.wav
+Conductores felices en medio del tráfico.mp3,190.73,44100,1,8411136,0.3394685983657837,1.0670322179794312,/content/audio_dataset/original/Conductores felices en medio del tráfico.mp3
+enojo3.wav,24.47,44100,1,1079296,0.1239541620016098,1.0,/content/audio_dataset/original/enojo3.wav
+multa.mp3,5.45,24000,1,130752,0.05491757392883301,0.4944293200969696,/content/audio_dataset/original/multa.mp3
+feliz03-02122025.wav,43.1,44100,1,1900668,0.12036897242069244,0.863037109375,/content/audio_dataset/original/feliz03-02122025.wav
+grito1.wav,9.8,44100,1,432128,0.058007385581731796,0.44610595703125,/content/audio_dataset/original/grito1.wav
+Frustacion + enojo.wav,167.53,44100,1,7388160,0.2643393576145172,1.0,/content/audio_dataset/original/Frustacion + enojo.wav
+felicidad.mp3,4.42,24000,1,105984,0.07460325211286545,0.547697901725769,/content/audio_dataset/original/felicidad.mp3
+consternacion + enojo.wav,82.69,44100,1,3646464,0.13940991461277008,0.9932861328125,/content/audio_dataset/original/consternacion + enojo.wav
+seriedad1.wav,12.12,44100,1,534528,0.14140596985816956,1.0,/content/audio_dataset/original/seriedad1.wav
